@@ -15,6 +15,8 @@ Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "TimeRecordingSystemUC", "Ti
 EndProject
 Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "CarControlClassD", "CarControlClassD\CarControlClassD.modelproj", "{C260051B-856F-4F7B-80CC-EBFE8E73AAEF}"
 EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "TimeRecordingSystemClassD", "TimeRecordingSystemClassD\TimeRecordingSystemClassD.modelproj", "{130290E0-C5DA-48C4-A740-161F2A243188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{C260051B-856F-4F7B-80CC-EBFE8E73AAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C260051B-856F-4F7B-80CC-EBFE8E73AAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C260051B-856F-4F7B-80CC-EBFE8E73AAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130290E0-C5DA-48C4-A740-161F2A243188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130290E0-C5DA-48C4-A740-161F2A243188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130290E0-C5DA-48C4-A740-161F2A243188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130290E0-C5DA-48C4-A740-161F2A243188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,5 +51,6 @@ Global
 		{D4931B5A-EE00-4548-8B47-E2AB29ED25D8} = {39823B39-7E07-4E06-B506-36EABBCDD616}
 		{BEFFB0AC-2CAB-4FB3-8CEE-FDD85FBBF288} = {378388E9-0BF0-4C02-86B5-28CC3074569A}
 		{C260051B-856F-4F7B-80CC-EBFE8E73AAEF} = {39823B39-7E07-4E06-B506-36EABBCDD616}
+		{130290E0-C5DA-48C4-A740-161F2A243188} = {378388E9-0BF0-4C02-86B5-28CC3074569A}
 	EndGlobalSection
 EndGlobal
