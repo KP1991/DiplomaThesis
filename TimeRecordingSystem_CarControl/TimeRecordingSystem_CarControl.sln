@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeRecordingSystem_CarControl", "TimeRecordingSystem_CarControl\TimeRecordingSystem_CarControl.csproj", "{6A390366-6673-414B-A83A-FC18C7C06A42}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{08DBA066-9BA4-4BA3-BE7D-CDCCF65909E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CarControl", "CarControl", "{39823B39-7E07-4E06-B506-36EABBCDD616}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A390366-6673-414B-A83A-FC18C7C06A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A390366-6673-414B-A83A-FC18C7C06A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A390366-6673-414B-A83A-FC18C7C06A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A390366-6673-414B-A83A-FC18C7C06A42}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08DBA066-9BA4-4BA3-BE7D-CDCCF65909E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08DBA066-9BA4-4BA3-BE7D-CDCCF65909E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08DBA066-9BA4-4BA3-BE7D-CDCCF65909E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
