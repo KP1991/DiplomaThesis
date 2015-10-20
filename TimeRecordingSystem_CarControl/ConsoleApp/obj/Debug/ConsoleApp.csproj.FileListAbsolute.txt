@@ -1,0 +1,6 @@
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Privat\HTL\Diplomarbeit\DiplomaThesis\TimeRecordingSystem_CarControl\ConsoleApp\obj\Debug\ConsoleApp.pdb
